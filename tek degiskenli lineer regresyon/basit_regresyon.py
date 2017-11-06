@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression, TheilSenRegressor
+from sklearn.linear_model import LinearRegression, TheilSenRegressor, Ridge, Lasso
 from sklearn.metrics import mean_squared_error
 
 # veri setinin yuklenmesi
@@ -51,30 +51,42 @@ X_egitim, X_test, y_egitim, y_test = train_test_split(X, y, test_size=0.2, rando
 # create models
 model_1 = LinearRegression()
 model_2 = TheilSenRegressor()
+model_3 = Ridge()
+model_4 = Lasso()
 
 # modelleri egitelim.
 # train models
 model_1.fit(X_egitim, y_egitim)
 model_2.fit(X_egitim, y_egitim)
+model_3.fit(X_egitim, y_egitim)
+model_4.fit(X_egitim, y_egitim)
 
 # modelleri test edelim.
 # test models
 tahmin_1 = model_1.predict(X_test)
 tahmin_2 = model_2.predict(X_test)
+tahmin_3 = model_3.predict(X_test)
+tahmin_4 = model_4.predict(X_test)
 
 # modellerin basarisina bakalim.
 # scores
 basari_1 = mean_squared_error(y_test, tahmin_1)
 basari_2 = mean_squared_error(y_test, tahmin_2)
+basari_3 = mean_squared_error(y_test, tahmin_3)
+basari_4 = mean_squared_error(y_test, tahmin_4)
 
 print "Lineer Regression Score : ", basari_1
 print "Theil-Sen Regressor Score : ", basari_2
+print "Ridge Regression Score : ", basari_3
+print "Lasso Regression Score : ", basari_4
 
 # plot
 plt.scatter(X_test, y_test, c='cyan', edgecolors='black')
-plt.plot(X_test, tahmin_1, 'red')
+plt.plot(X_test, tahmin_1, 'red', lw=5)
 plt.plot(X_test, tahmin_2, 'blue')
-plt.legend(['Lineer Regression', 'Theil-Sen Regressor', 'Veri'])
+plt.plot(X_test, tahmin_3, 'orange')
+plt.plot(X_test, tahmin_4, 'green')
+plt.legend(['Lineer Regression', 'Theil-Sen Regressor', 'Ridge Regression', 'Lasso Regression', 'Veri'])
 plt.title('Tek Degiskenli Lineer Regresyon')
 plt.tight_layout()
 plt.show()
