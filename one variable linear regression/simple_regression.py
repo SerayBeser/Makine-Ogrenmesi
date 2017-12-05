@@ -8,7 +8,7 @@ from sklearn.metrics import mean_squared_error
 
 # veri setinin yuklenmesi
 # load dataset
-regresyon_veri_1 = pd.read_csv('regresyon_veri_1.txt', header=None, names=['X', 'Y'])
+regresyon_veri_1 = pd.read_csv('../input/regression_data_1.txt', header=None, names=['X', 'Y'])
 
 # kopyasini olusturalim, orjinali saklamak icin
 # copy dataset for keep original
