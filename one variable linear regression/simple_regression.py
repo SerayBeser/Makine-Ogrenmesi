@@ -8,17 +8,17 @@ from sklearn.metrics import mean_squared_error
 
 # veri setinin yuklenmesi
 # load dataset
-regresyon_veri_1 = pd.read_csv('../input/regression_data_1.txt', header=None, names=['X', 'Y'])
+regression_data_1 = pd.read_csv('../input/regression_data_1.txt', header=None, names=['X', 'Y'])
 
 # kopyasini olusturalim, orjinali saklamak icin
 # copy dataset for keep original
-veri_seti = regresyon_veri_1.copy()
+data_set = regression_data_1.copy()
 
 # veri setini inceleyelim.
 # explore dataset
-print veri_seti.head()
-print veri_seti.info()
-print veri_seti.describe()
+print data_set.head()
+print data_set.info()
+print data_set.describe()
 
 # 85 tane ornek var, eksik deger yok (float64)
 # 85 entries, no null value(float64)
@@ -28,12 +28,12 @@ print veri_seti.describe()
 
 # dagilim grafigine bakalim.
 # show scatter plot
-# plt.scatter(veri_seti.X, veri_seti.Y)
+# plt.scatter(data_set.X, data_set.Y)
 # plt.show()
 
 # Pearson Correlation Coefficient hesaplayalim.
 # Compute the Pearson Correlation Coefficient
-print veri_seti.corr()
+print data_set.corr()
 
 # aralarinda pozitif guclu bir iliski bulunuyor.
 # positive strong correlation
@@ -41,11 +41,11 @@ print veri_seti.corr()
 
 # egitim test seti olarak ayiralim.
 # split train-test set
-m = len(veri_seti.X)
-X = np.reshape(np.asarray(veri_seti.X), (m, -1))
-y = np.reshape(np.asarray(veri_seti.Y), (m, -1))
+m = len(data_set.X)
+X = np.reshape(np.asarray(data_set.X), (m, -1))
+y = np.reshape(np.asarray(data_set.Y), (m, -1))
 
-X_egitim, X_test, y_egitim, y_test = train_test_split(X, y, test_size=0.2, random_state=False)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=False)
 
 # modelleri olusturalim.
 # create models
@@ -56,37 +56,37 @@ model_4 = Lasso()
 
 # modelleri egitelim.
 # train models
-model_1.fit(X_egitim, y_egitim)
-model_2.fit(X_egitim, y_egitim)
-model_3.fit(X_egitim, y_egitim)
-model_4.fit(X_egitim, y_egitim)
+model_1.fit(X_train, y_train)
+model_2.fit(X_train, y_train)
+model_3.fit(X_train, y_train)
+model_4.fit(X_train, y_train)
 
 # modelleri test edelim.
 # test models
-tahmin_1 = model_1.predict(X_test)
-tahmin_2 = model_2.predict(X_test)
-tahmin_3 = model_3.predict(X_test)
-tahmin_4 = model_4.predict(X_test)
+prediction_1 = model_1.predict(X_test)
+prediction_2 = model_2.predict(X_test)
+prediction_3 = model_3.predict(X_test)
+prediction_4 = model_4.predict(X_test)
 
 # modellerin basarisina bakalim.
 # scores
-basari_1 = mean_squared_error(y_test, tahmin_1)
-basari_2 = mean_squared_error(y_test, tahmin_2)
-basari_3 = mean_squared_error(y_test, tahmin_3)
-basari_4 = mean_squared_error(y_test, tahmin_4)
+score_1 = mean_squared_error(y_test, prediction_1)
+score_2 = mean_squared_error(y_test, prediction_2)
+score_3 = mean_squared_error(y_test, prediction_3)
+score_4 = mean_squared_error(y_test, prediction_4)
 
-print "Lineer Regression Score : ", basari_1
-print "Theil-Sen Regressor Score : ", basari_2
-print "Ridge Regression Score : ", basari_3
-print "Lasso Regression Score : ", basari_4
+print "Lineer Regression Score : ", score_1
+print "Theil-Sen Regressor Score : ", score_2
+print "Ridge Regression Score : ", score_3
+print "Lasso Regression Score : ", score_4
 
 # plot
 plt.scatter(X_test, y_test, c='cyan', edgecolors='black')
-plt.plot(X_test, tahmin_1, 'red', lw=5)
-plt.plot(X_test, tahmin_2, 'blue')
-plt.plot(X_test, tahmin_3, 'orange')
-plt.plot(X_test, tahmin_4, 'green')
+plt.plot(X_test, prediction_1, 'red', lw=5)
+plt.plot(X_test, prediction_2, 'blue')
+plt.plot(X_test, prediction_3, 'orange')
+plt.plot(X_test, prediction_4, 'green')
 plt.legend(['Lineer Regression', 'Theil-Sen Regressor', 'Ridge Regression', 'Lasso Regression', 'Veri'])
-plt.title('Tek Degiskenli Lineer Regresyon')
+plt.title('Tek Degiskenli Lineer Regresyon, One-Variable Lineer Regression')
 plt.tight_layout()
 plt.show()
