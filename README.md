@@ -19,7 +19,8 @@ Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğu
 6. Bölüm:  Boyut Azaltma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 7. Bölüm:  Yapay Sinir Ağları [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 
-[![Next](https://img.shields.io/badge/next-derin%20%C3%B6%C4%9Frenme-ff69b4.svg)](https://img.shields.io/badge/next-derin%20%C3%B6%C4%9Frenme-ff69b4.svg)
+[![Next](https://img.shields.io/badge/next-derin%20%C3%B6%C4%9Frenme-ff69b4.svg)](derinogrenme)
+[![Next](https://img.shields.io/badge/next-tensorflow-ff69b4.svg)](tensorflow)
 
 ## Başlarken
 
