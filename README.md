@@ -70,8 +70,8 @@ $ sudo pip install -r requirements.txt
     		2.3.3	Veriyi Hızlıca Gözden Geçirmek
     		2.3.4	Veriyi Bölmek
     	2.4	Veriyi Anlamak
-    	    2.4.1   Veriyi Görselleştirmek
-    	    2.4.2   Veriler Arasındaki İlişkiyi İncelemek
+    		2.4.1   Veriyi Görselleştirmek
+    		2.4.2   Veriler Arasındaki İlişkiyi İncelemek
     	2.5	Veriyi Hazırlamak
         	2.5.1   Veriyi Temizlemek
         	2.5.2   Metin ve Kategorik Öznitelikleri İşlemek
