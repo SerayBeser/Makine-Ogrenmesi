@@ -33,7 +33,7 @@ $ sudo pip install -r requirements.txt
 
 ## İçindekiler
 
-
+ 
 ###	1.	Bölüm  : Makine Öğrenmesine Giriş
     [1.Bölüm  : Makine Öğrenmesine Giriş](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F)
     	1.1	[Ne Yapmak İstiyoruz?](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.1%20Ne%20Yapmak%20%C4%B0stiyoruz%3F.pdf)
