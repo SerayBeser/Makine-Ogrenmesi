@@ -55,7 +55,7 @@ $ sudo pip install -r requirements.txt
 - 1.5.2	Temsili Olmayan Eğitim Verileri
 - 1.5.3	Düşük Kaliteli Veriler
 - 1.5.4	Alakasız Özellikler
- -1.5.5	Eğitim Verilerinin Aşırı Uyumu - Yetersiz Uyumu
+- 1.5.5	Eğitim Verilerinin Aşırı Uyumu - Yetersiz Uyumu
     		
 1.6	[Test Etme ve Tahminlerin Doğruluğunu Ölçme](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.6%20Test%20Etme%20ve%20Tahminlerin%20Do%C4%9Frulu%C4%9Funu%20%C3%96l%C3%A7me.pdf)
 - 1.6.1	Doğruluk, Hassasiyet, Hata
