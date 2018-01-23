@@ -9,6 +9,18 @@ Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğu
 İçerisinde uygulamalı makine öğrenmesi programları ve yararlı olabilecek bilgiler yer almaktadır. Yazılara blog'umdan erişebilirsiniz.
 *    https://veribilimcisi.com/
 
+## İçerik
+
+1. Bölüm:  Makine Öğrenmesine Giriş [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
+2. Bölüm:  Baştan Sona Makine Öğrenmesinin Temelleri [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
+3. Bölüm:  Regresyon [![Progress](https://img.shields.io/badge/Progress-%2550-yellow.svg)](https://img.shields.io/badge/Progress-%2550-yellow.svg)
+4. Bölüm:  Sınıflandırma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
+5. Bölüm:  Kümeleme [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
+6. Bölüm:  Boyut Azaltma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
+7. Bölüm:  Yapay Sinir Ağları [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
+
+[![Next](https://img.shields.io/badge/next-derin%20%C3%B6%C4%9Frenme-ff69b4.svg)](https://img.shields.io/badge/next-derin%20%C3%B6%C4%9Frenme-ff69b4.svg)
+
 ## Başlarken
 
 Programların çalıştırılabilmesi için gerekli paketleri makinenize yüklemeniz gerekiyor. 
@@ -16,7 +28,7 @@ Programların çalıştırılabilmesi için gerekli paketleri makinenize yüklem
 
 Paketlerin kurulumunu sanal ortam içerisine yapabilirsiniz veya [anaconda](https://anaconda.org/) kullanabilirsiniz.
 
-### Gereklilikler
+### Gereksinimler
 
 Programların çalıştırılabilmesi için gerekli olan paketlere setup altından erişebilirsiniz.
 
