@@ -35,22 +35,22 @@ $ sudo pip install -r requirements.txt
 
 
 ###	1.	Bölüm  : Makine Öğrenmesine Giriş
-    1.Bölüm  : Makine Öğrenmesine Giriş
-    	1.1	Ne Yapmak İstiyoruz?
-    	1.2	Makine Öğrenmesi Nedir?
+    [1.Bölüm  : Makine Öğrenmesine Giriş](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F)
+    	1.1	[Ne Yapmak İstiyoruz?](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.1%20Ne%20Yapmak%20%C4%B0stiyoruz%3F.pdf)
+    	1.2	[Makine Öğrenmesi Nedir?](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.2%20Makine%20%C3%96%C4%9Frenmesi%20Nedir%3F.pdf)
     		1.2.1	Arthur Samuel: Makine Öğrenmesinin Öncüsü
-    	1.3	Neden Makine Öğrenmesi Kullanıyoruz?
-    	1.4	Makine Öğrenmesi Sistemleri
+    	1.3	[Neden Makine Öğrenmesi Kullanıyoruz?](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.3%20Neden%20Makine%20%C3%96%C4%9Frenmesi%20Kullan%C4%B1yoruz%3F.pdf)
+    	1.4	[Makine Öğrenmesi Sistemleri](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.4%20Makine%20%C3%96%C4%9Frenmesi%20Sistemleri.pdf)
     		1.4.1	Denetimli - Denetimsiz Öğrenme
     		1.4.2	Toplu - Çevrimiçi Öğrenme
     		1.4.3	Örnek-Tabanlı - Model-Tabanlı Öğrenme 
-    	1.5	Makine Öğrenmesinde Karşılaşılan Zorluklar
+    	1.5	[Makine Öğrenmesinde Karşılaşılan Zorluklar](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.5%20Makine%20%C3%96%C4%9Frenmesinde%20Kar%C5%9F%C4%B1la%C5%9F%C4%B1lan%20Zorluklar.pdf)
     		1.5.1	Yetersiz Eğitim Verisi Miktarı
     		1.5.2	Temsili Olmayan Eğitim Verileri
     		1.5.3	Düşük Kaliteli Veriler
     		1.5.4	Alakasız Özellikler
     		1.5.5	Eğitim Verilerinin Aşırı Uyumu - Yetersiz Uyumu
-    	1.6	Test Etme ve Tahminlerin Doğruluğunu Ölçme
+    	1.6	[Test Etme ve Tahminlerin Doğruluğunu Ölçme](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.6%20Test%20Etme%20ve%20Tahminlerin%20Do%C4%9Frulu%C4%9Funu%20%C3%96l%C3%A7me.pdf)
     		1.6.1	Doğruluk, Hassasiyet, Hata
     		1.6.2	Çapraz Doğrulama
     		1.6.3	Karışıklık Matrisi ve Performans Ölçütleri
@@ -59,27 +59,28 @@ $ sudo pip install -r requirements.txt
 
 ###	2.	Bölüm   : Baştan Sona Makine Öğrenmesinin Temelleri
 
-    2.	Bölüm   : Baştan Sona Makine Öğrenmesinin Temelleri
-    	2.1	Veriyi Bulmak
-    	2.2	Büyük Resmi Görmek
+    [2.	Bölüm   : Baştan Sona Makine Öğrenmesinin Temelleri](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri)
+    	2.1	[Veriyi Bulmak](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.1.%20Veriyi%20Bulmak.pdf)
+    	2.2	[Büyük Resmi Görmek](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.2%20B%C3%BCy%C3%BCk%20Resmi%20G%C3%B6rmek.pdf)
     		2.2.1	Sorunun Hatlarını Çizmek
     		2.2.2	Performans Ölçütünü Seçmek
-    	2.3	Veriyi Almak
+    	2.3	[Veriyi Almak](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.3%20Veriyi%20Almak.pdf)
     		2.3.1	Çalışma Alanı Oluşturmak
     		2.3.2	Veriyi Yüklemek
     		2.3.3	Veriyi Hızlıca Gözden Geçirmek
     		2.3.4	Veriyi Bölmek
-    	2.4	Veriyi Anlamak
+    	2.4	[Veriyi Anlamak](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.4%20Veriyi%20Anlamak.pdf)
     		2.4.1   Veriyi Görselleştirmek
     		2.4.2   Veriler Arasındaki İlişkiyi İncelemek
-    	2.5	Veriyi Hazırlamak
+    	2.5	[Veriyi Hazırlamak](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.5%20Veriyi%20Haz%C4%B1rlamak.pdf)
         	2.5.1   Veriyi Temizlemek
         	2.5.2   Metin ve Kategorik Öznitelikleri İşlemek
         	2.5.3   Özellikleri Ölçeklendirmek
-    	2.6	Modeli Seçmek ve Eğitmek
-    	2.7	Modeli Test Etmek
-    	2.8	Sonuçları Sunmak
-    	2.9	Sistemin Takibini ve Bakımını Yapmak
+    	2.6	[Modeli Seçmek ve Eğitmek](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.6%20Modeli%20Se%C3%A7mek%20ve%20E%C4%9Fitmek.pdf)
+    	2.7	[Modeli Test Etmek](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.7%20Modeli%20Test%20Etmek.pdf)
+    	2.8	[Sonuçları Sunmak](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.8%20Sonu%C3%A7lar%C4%B1%20Sunmak.pdf)
+    	2.9	[Sistemin Takibini ve Bakımını Yapmak](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.9%20Sistemin%20Takibini%20ve%20Bak%C4%B1m%C4%B1n%C4%B1%20Yapmak.pdf)
+
 
 ### 3. Bölüm  : Regresyon
 
