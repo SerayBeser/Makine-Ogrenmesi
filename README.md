@@ -6,7 +6,7 @@
 
 Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğum bir repo'dur.
 
-İçerisinde uygulamalı makine öğrenmesi programları ve yararlı olabilecek bilgiler yer almaktadır. Yazılara blog'umdan erişebilirsiniz.
+İçerisinde uygulamalı makine öğrenmesi programları ve anlatımlar yer almaktadır. Yazılara blog'umdan erişebilirsiniz.
 *    https://veribilimcisi.com/
 
 ## İçerik
