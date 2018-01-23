@@ -2,7 +2,7 @@
 
 
 # Makine Öğrenmesi Türkçe Kaynak
-![foto](https://drive.google.com/file/d/1CKl4LxbDfbWTIC40e1-MQ_quibDgmGEV/view?usp=sharing)
+
 
 Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğum bir repo'dur.
 
