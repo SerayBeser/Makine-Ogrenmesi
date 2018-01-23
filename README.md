@@ -2,6 +2,7 @@
 
 
 # Makine Öğrenmesi Türkçe Kaynak
+![foto](https://drive.google.com/file/d/1CKl4LxbDfbWTIC40e1-MQ_quibDgmGEV/view?usp=sharing)
 
 Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğum bir repo'dur.
 
@@ -33,7 +34,6 @@ $ sudo pip install -r requirements.txt
 
 ## İçindekiler
 
- 
 ###	1.	Bölüm  : Makine Öğrenmesine Giriş
 [1.Bölüm  : Makine Öğrenmesine Giriş](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F)
 
