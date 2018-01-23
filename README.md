@@ -38,11 +38,13 @@ $ sudo pip install -r requirements.txt
 [1.Bölüm  : Makine Öğrenmesine Giriş](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F)
 
 1.1	[Ne Yapmak İstiyoruz?](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.1%20Ne%20Yapmak%20%C4%B0stiyoruz%3F.pdf)
+
 1.2	[Makine Öğrenmesi Nedir?](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.2%20Makine%20%C3%96%C4%9Frenmesi%20Nedir%3F.pdf)
         
 - 1.2.1	Arthur Samuel: Makine Öğrenmesinin Öncüsü
 
 1.3	[Neden Makine Öğrenmesi Kullanıyoruz?](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.3%20Neden%20Makine%20%C3%96%C4%9Frenmesi%20Kullan%C4%B1yoruz%3F.pdf)
+
 1.4	[Makine Öğrenmesi Sistemleri](https://github.com/SerayBeser/machine-learning/blob/master/B%C3%B6l%C3%BCm%201%20%20:%20Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/1.4%20Makine%20%C3%96%C4%9Frenmesi%20Sistemleri.pdf)
 - 1.4.1	Denetimli - Denetimsiz Öğrenme
 - 1.4.2	Toplu - Çevrimiçi Öğrenme
@@ -67,6 +69,7 @@ $ sudo pip install -r requirements.txt
 [2.	Bölüm   : Baştan Sona Makine Öğrenmesinin Temelleri](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri)
 
 2.1	[Veriyi Bulmak](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.1.%20Veriyi%20Bulmak.pdf)
+
 2.2	[Büyük Resmi Görmek](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.2%20B%C3%BCy%C3%BCk%20Resmi%20G%C3%B6rmek.pdf)
 - 2.2.1	Sorunun Hatlarını Çizmek
 - 2.2.2	Performans Ölçütünü Seçmek
@@ -87,8 +90,11 @@ $ sudo pip install -r requirements.txt
 - 2.5.3   Özellikleri Ölçeklendirmek
         	
 2.6	[Modeli Seçmek ve Eğitmek](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.6%20Modeli%20Se%C3%A7mek%20ve%20E%C4%9Fitmek.pdf)
+
 2.7	[Modeli Test Etmek](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.7%20Modeli%20Test%20Etmek.pdf)
+
 2.8	[Sonuçları Sunmak](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.8%20Sonu%C3%A7lar%C4%B1%20Sunmak.pdf)
+
 2.9	[Sistemin Takibini ve Bakımını Yapmak](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%202%20%20:%20%20Ba%C5%9Ftan%20Sona%20Makine%20%C3%96%C4%9Frenmesinin%20Temelleri/2.9%20Sistemin%20Takibini%20ve%20Bak%C4%B1m%C4%B1n%C4%B1%20Yapmak.pdf)
 
 
