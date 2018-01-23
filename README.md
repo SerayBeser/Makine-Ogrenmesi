@@ -23,12 +23,12 @@ Programların çalıştırılabilmesi için gerekli olan paketlere setup altınd
 
 Linux makine için kurulum:
 
-* [setup.py](https://github.com/SerayBeser/machine-learning/setup/setup.py) çalıştırın.
+* [setup.py](https://github.com/SerayBeser/machine-learning/blob/master/setup/setup.py) çalıştırın.
 
 veya
 
 ```sh
-$ sudo pip -r requirements.txt
+$ sudo pip install -r requirements.txt
 ```
 
 ## İçindekiler
