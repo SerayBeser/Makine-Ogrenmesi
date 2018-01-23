@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  [![Python](https://img.shields.io/badge/Python-2.7-blue.svg)](https://img.shields.io/badge/Python-2.7-blue.svg) [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](https://img.shields.io/badge/Platform-Linux-orange.svg)  [![Progress](https://img.shields.io/badge/Progress-%2536-brightgreen.svg)](https://img.shields.io/badge/Progress-%2536-brightgreen.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()  [![Python](https://img.shields.io/badge/Python-2.7-blue.svg)]() [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)]()  [![Progress](https://img.shields.io/badge/Progress-%2536-brightgreen.svg)]()
 
 
 # Makine Öğrenmesi Türkçe Kaynak
