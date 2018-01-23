@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  [![Python](https://img.shields.io/badge/Python-2.7-blue.svg)](https://img.shields.io/badge/Python-2.7-blue.svg) [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](https://img.shields.io/badge/Platform-Linux-orange.svg)  [![Progress](https://img.shields.io/badge/Progress-%2536-brightgreen.svg)](https://img.shields.io/badge/Progress-%2536-brightgreen.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/LICENSE.md)  [![Python](https://img.shields.io/badge/Python-2.7-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/setup) [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](platform)  [![Progress](https://img.shields.io/badge/Progress-%2536-brightgreen.svg)](progress)
 
 
 # Makine Öğrenmesi Türkçe Kaynak
@@ -6,20 +6,21 @@
 
 Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğum bir repo'dur.
 
-İçerisinde uygulamalı makine öğrenmesi programları ve yararlı olabilecek bilgiler yer almaktadır. Yazılara blog'umdan erişebilirsiniz.
+İçerisinde uygulamalı makine öğrenmesi programları ve anlatımlar yer almaktadır. Yazılara blog'umdan erişebilirsiniz.
 *    https://veribilimcisi.com/
 
 ## İçerik
 
-1. Bölüm:  Makine Öğrenmesine Giriş [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
-2. Bölüm:  Baştan Sona Makine Öğrenmesinin Temelleri [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
-3. Bölüm:  Regresyon [![Progress](https://img.shields.io/badge/Progress-%2550-yellow.svg)](https://img.shields.io/badge/Progress-%2550-yellow.svg)
+1. Bölüm:  [Makine Öğrenmesine Giriş](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#1b%C3%B6l%C3%BCm---makine-%C3%96%C4%9Frenmesine-giri%C5%9F) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
+2. Bölüm:  [Baştan Sona Makine Öğrenmesinin Temelleri](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#2b%C3%B6l%C3%BCm----ba%C5%9Ftan-sona-makine-%C3%96%C4%9Frenmesinin-temelleri) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
+3. Bölüm:  [Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#3-b%C3%B6l%C3%BCm---regresyon) [![Progress](https://img.shields.io/badge/Progress-%2550-yellow.svg)](https://img.shields.io/badge/Progress-%2550-yellow.svg)
 4. Bölüm:  Sınıflandırma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 5. Bölüm:  Kümeleme [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 6. Bölüm:  Boyut Azaltma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 7. Bölüm:  Yapay Sinir Ağları [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 
-[![Next](https://img.shields.io/badge/next-derin%20%C3%B6%C4%9Frenme-ff69b4.svg)](https://img.shields.io/badge/next-derin%20%C3%B6%C4%9Frenme-ff69b4.svg)
+[![Next](https://img.shields.io/badge/next-derin%20%C3%B6%C4%9Frenme-ff69b4.svg)](derinogrenme)
+[![Next](https://img.shields.io/badge/next-tensorflow-ff69b4.svg)](tensorflow)
 
 ## Başlarken
 
@@ -112,27 +113,39 @@ $ sudo pip install -r requirements.txt
 
 ### 3. Bölüm  : Regresyon
 
-    3. Bölüm  : Regresyon
-        3.1 İlk Minik Makine Öğrenmesi Uygulaması
-        3.2 Basit Lineer Regresyon
-            3.2.1   İlişki Türleri
-            3.2.2   İlişkinin Gücü ve Yönü
-            3.2.3   En Küçük Kareler Yöntemi
-        3.3 Tek Değişkenli Lineer Regresyon
-            3.3.1   Maliyet Fonksiyonu
-            3.3.2   Dereceli Azalma
-            3.3.3   Öğrenme Oranı
-            3.3.4   Kesme Terimi
-        3.4 Çok Değişkenli Lineer Regresyon [eksik]
-            3.4.1   Özellik Ölçeklendirme ve Normalleştirme
-            3.4.2   Dereceli Azalma Çeşitleri
-                3.4.2.1   Batch Gradient
-                3.4.2.2   Stochastic Gradient
-                3.4.2.3   Mini - Batch Gradient
-            3.4.3   Dereceli Azalma Optimizasyon Algoritmaları
-                3.4.3.1   Momentum, ….
-            3.4.4   Normal Denklemler
-        3.5 Polinomsal Regresyon 
+[3. Bölüm  : Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/B%C3%B6l%C3%BCm%203%20:%20Regresyon)
+
+3.1 [İlk Minik Makine Öğrenmesi Uygulaması](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%203%20:%20Regresyon/3.1.%20%C4%B0lk%20Minik%20Makine%20%C3%96%C4%9Frenmesi%20Uygulamas%C4%B1.pdf)
+
+3.2 [Basit Lineer Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%203%20:%20Regresyon/3.2%20Basit%20Lineer%20Regresyon.pdf)
+
+- 3.2.1   İlişki Türleri
+- 3.2.2   İlişkinin Gücü ve Yönü
+- 3.2.3   En Küçük Kareler Yöntemi
+
+3.3 Tek Değişkenli Lineer Regresyon
+
+- 3.3.1   Maliyet Fonksiyonu
+- 3.3.2   Dereceli Azalma
+- 3.3.3   Öğrenme Oranı
+- 3.3.4   Kesme Terimi
+
+3.4 Çok Değişkenli Lineer Regresyon [eksik]
+
+- 3.4.1   Özellik Ölçeklendirme ve Normalleştirme
+- 3.4.2   Dereceli Azalma Çeşitleri
+
+        - 3.4.2.1   Batch Gradient
+        - 3.4.2.2   Stochastic Gradient
+        - 3.4.2.3   Mini - Batch Gradient
+        
+- 3.4.3   Dereceli Azalma Optimizasyon Algoritmaları  
+
+        - 3.4.3.1   Momentum, ….
+        
+- 3.4.4   Normal Denklemler
+
+3.5 Polinomsal Regresyon 
 
 
 ## Yazar
