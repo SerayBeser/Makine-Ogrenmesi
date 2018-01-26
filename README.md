@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/LICENSE.md)  [![Python](https://img.shields.io/badge/Python-2.7-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/setup) [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](platform)  [![Progress](https://img.shields.io/badge/Progress-%2540-brightgreen.svg)](progress)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/LICENSE.md)  [![Python](https://img.shields.io/badge/Python-2.7-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/setup) [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](platform)  [![Progress](https://img.shields.io/badge/Progress-%2543-brightgreen.svg)](progress)
 
 
 # Makine Öğrenmesi Türkçe Kaynak
@@ -13,7 +13,7 @@ Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğu
 
 1. Bölüm:  [Makine Öğrenmesine Giriş](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#1b%C3%B6l%C3%BCm---makine-%C3%96%C4%9Frenmesine-giri%C5%9F) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 2. Bölüm:  [Baştan Sona Makine Öğrenmesinin Temelleri](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#2b%C3%B6l%C3%BCm----ba%C5%9Ftan-sona-makine-%C3%96%C4%9Frenmesinin-temelleri) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
-3. Bölüm:  [Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#3-b%C3%B6l%C3%BCm---regresyon) [![Progress](https://img.shields.io/badge/Progress-%2580-yellow.svg)](https://img.shields.io/badge/Progress-%2580-yellow.svg)
+3. Bölüm:  [Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#3-b%C3%B6l%C3%BCm---regresyon) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 4. Bölüm:  Sınıflandırma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 5. Bölüm:  Kümeleme [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 6. Bölüm:  Boyut Azaltma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
@@ -152,7 +152,7 @@ $ sudo pip install -r requirements.txt
 
 - 3.4.5 Normal Denklemler
 
-3.5 Polinomsal Regresyon 
+3.5 [Polinomsal Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%203%20:%20Regresyon/3.5%20Polinomsal%20Regresyon.pdf)
 
 
 ## Yazar
