@@ -154,6 +154,23 @@ $ sudo pip install -r requirements.txt
 
 3.5 [Polinomsal Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%203%20:%20Regresyon/3.5%20Polinomsal%20Regresyon.pdf)
 
+###	4.	Bölüm  : Sınıflandırma
+
+
+4. Bölüm :   Sınıflandırma
+
+4.1 Lojistik Regresyon
+
+4.2 K En Yakın Komşu
+
+4.3 Karar Ağaçları (ağaç algoritmaları)
+
+4.4 Destek Vektör Makineleri
+
+4.5 Naive Bayes
+
+
+
 
 ## Yazar
 
