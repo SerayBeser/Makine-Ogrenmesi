@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/LICENSE.md)  [![Python](https://img.shields.io/badge/Python-2.7-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/setup) [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](platform)  [![Progress](https://img.shields.io/badge/Progress-%2536-brightgreen.svg)](progress)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/LICENSE.md)  [![Python](https://img.shields.io/badge/Python-2.7-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/setup) [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](platform)  [![Progress](https://img.shields.io/badge/Progress-%2540-brightgreen.svg)](progress)
 
 
 # Makine Öğrenmesi Türkçe Kaynak
@@ -13,7 +13,7 @@ Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğu
 
 1. Bölüm:  [Makine Öğrenmesine Giriş](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#1b%C3%B6l%C3%BCm---makine-%C3%96%C4%9Frenmesine-giri%C5%9F) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 2. Bölüm:  [Baştan Sona Makine Öğrenmesinin Temelleri](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#2b%C3%B6l%C3%BCm----ba%C5%9Ftan-sona-makine-%C3%96%C4%9Frenmesinin-temelleri) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
-3. Bölüm:  [Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#3-b%C3%B6l%C3%BCm---regresyon) [![Progress](https://img.shields.io/badge/Progress-%2560-yellow.svg)](https://img.shields.io/badge/Progress-%2560-yellow.svg)
+3. Bölüm:  [Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#3-b%C3%B6l%C3%BCm---regresyon) [![Progress](https://img.shields.io/badge/Progress-%2580-yellow.svg)](https://img.shields.io/badge/Progress-%2580-yellow.svg)
 4. Bölüm:  Sınıflandırma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 5. Bölüm:  Kümeleme [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 6. Bölüm:  Boyut Azaltma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
@@ -130,20 +130,27 @@ $ sudo pip install -r requirements.txt
 - 3.3.3   Öğrenme Oranı
 - 3.3.4   Kesme Terimi
 
-3.4 Çok Değişkenli Lineer Regresyon [eksik]
+3.4 [Çok Değişkenli Lineer Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%203%20:%20Regresyon/3.4%20%C3%87ok%20De%C4%9Fi%C5%9Fkenli%20Lineer%20Regresyon.pdf)
 
 - 3.4.1   Özellik Ölçeklendirme ve Normalleştirme
 - 3.4.2   Dereceli Azalma Çeşitleri
 
-        - 3.4.2.1   Batch Gradient
-        - 3.4.2.2   Stochastic Gradient
-        - 3.4.2.3   Mini - Batch Gradient
+        - 3.4.2.1   Dereceli Azalma Ne Zaman Doğru Çalışır?
+        - 3.4.2.2   Batch Gradient
+        - 3.4.2.3   Stochastic Gradient
+        - 3.4.2.4   Mini - Batch Gradient
         
 - 3.4.3   Dereceli Azalma Optimizasyon Algoritmaları  
 
-        - 3.4.3.1   Momentum, ….
+        - 3.4.3.1   Momentum
         
-- 3.4.4   Normal Denklemler
+- 3.4.4   Baştan Sona Çok Değişkenli Lineer Regresyon Örneği
+
+        - 3.4.4.1   Toplu Dereceli Azalma ile Örnek
+        - 3.4.4.2   Mini-Paket Dereceli Azalma ile Örnek
+        - 3.4.4.3   Mini-Paket Dereceli Azalma ve Momentum ile Örnek
+
+- 3.4.5 Normal Denklemler
 
 3.5 Polinomsal Regresyon 
 
