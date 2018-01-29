@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/LICENSE.md)  [![Python](https://img.shields.io/badge/Python-2.7-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/setup) [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](platform)  [![Progress](https://img.shields.io/badge/Progress-%2543-brightgreen.svg)](progress)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/LICENSE.md)  [![Python](https://img.shields.io/badge/Python-2.7-blue.svg)](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/setup) [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](platform)  [![Progress](https://img.shields.io/badge/Progress-%2546-brightgreen.svg)](progress)
 
 
 
@@ -15,7 +15,7 @@ Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğu
 1. Bölüm:  [Makine Öğrenmesine Giriş](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#1b%C3%B6l%C3%BCm---makine-%C3%96%C4%9Frenmesine-giri%C5%9F) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 2. Bölüm:  [Baştan Sona Makine Öğrenmesinin Temelleri](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#2b%C3%B6l%C3%BCm----ba%C5%9Ftan-sona-makine-%C3%96%C4%9Frenmesinin-temelleri) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 3. Bölüm:  [Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#3-b%C3%B6l%C3%BCm---regresyon) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
-4. Bölüm:  [Sınıflandırma](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#4b%C3%B6l%C3%BCm---s%C4%B1n%C4%B1fland%C4%B1rma) [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
+4. Bölüm:  [Sınıflandırma](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#4b%C3%B6l%C3%BCm---s%C4%B1n%C4%B1fland%C4%B1rma) [![Progress](https://img.shields.io/badge/Progress-%220-yellow.svg)](https://img.shields.io/badge/Progress-%220-yellow.svg)
 5. Bölüm:  Kümeleme [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 6. Bölüm:  Boyut Azaltma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 7. Bölüm:  Yapay Sinir Ağları [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
@@ -158,9 +158,9 @@ $ sudo pip install -r requirements.txt
 ###	4.	Bölüm  : Sınıflandırma
 
 
-4. Bölüm :   Sınıflandırma
+[4. Bölüm :   Sınıflandırma](https://github.com/SerayBeser/makine-ogrenmesi/tree/master/B%C3%B6l%C3%BCm%204%20:%20S%C4%B1n%C4%B1fland%C4%B1rma)
 
-4.1 Lojistik Regresyon
+4.1 [Lojistik Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%204%20:%20S%C4%B1n%C4%B1fland%C4%B1rma/4.1%20Lojistik%20Regresyon.pdf)
 
 4.2 K En Yakın Komşu
 
