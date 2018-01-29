@@ -153,7 +153,7 @@ $ sudo pip install -r requirements.txt
 
 - 3.4.5 Normal Denklemler
 
-3.5 [Polinomsal Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%203%20:%20Regresyon/3.5%20Polinomsal%20Regresyon.pdf)
+3.5 [Polinomsal Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%203%20:%20Regresyon/3.5%20Polinomsal%20Regresyon.pdf) [polinomsal regresyon örneği implementation'ı eksik]
 
 ###	4.	Bölüm  : Sınıflandırma
 
