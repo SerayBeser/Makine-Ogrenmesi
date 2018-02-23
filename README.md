@@ -164,7 +164,25 @@ $ sudo pip install -r requirements.txt
 
 4.2 [K En Yakın Komşu](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%204%20:%20S%C4%B1n%C4%B1fland%C4%B1rma/4.2%20K-En%20Yak%C4%B1n%20Kom%C5%9Fu.pdf)
 
-4.3 Karar Ağaçları (ağaç algoritmaları)
+4.3 [Karar Ağaçları (ağaç algoritmaları)](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/B%C3%B6l%C3%BCm%204%20:%20S%C4%B1n%C4%B1fland%C4%B1rma/4.3%20Karar%20Agaclari.pdf)
+
+- 4.3.1 Gini Dizini
+
+- 4.3.2 Entropi
+
+- 4.3.3 Bilgi Kazanımı
+        
+- 4.3.4 Ağaç Algoritmaları [eksik]
+
+        - 4.3.4.1 CART
+        - 4.3.4.2 ID3
+        - 4.3.4.3 C4.5
+        - 4.3.4.4 C5.0
+ 
+- 4.3.5 Ensemble Yöntemler [eksik] 
+        
+        - 4.3.5.1 Bagging
+        - 4.3.5.2 Boosting
 
 4.4 Destek Vektör Makineleri
 
