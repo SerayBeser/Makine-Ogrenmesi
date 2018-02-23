@@ -189,6 +189,61 @@ $ sudo pip install -r requirements.txt
 4.5 Naive Bayes
 
 
+### 5. Bölüm  : Kümeleme
+
+5. Bölüm : Kümeleme
+
+5.1 Parçalama Tabanlı
+
+        - 5.1.1 K-Means
+        - 5.1.2 K-Medoids
+        - 5.1.3 K-modes
+        - 5.1.4 PAM
+        - 5.1.5 CLARANS
+        - 5.1.6 CLARA
+        - 5.1.7 FCM
+        
+5.2 Hiyerarşik Tabanlı
+
+        - 5.2.1 BIRCH
+        - 5.2.2 CURE
+        - 5.2.3 ROCK
+        - 5.2.4 Chamelon
+        - 5.2.5 Echidna
+       
+       
+5.3 Yoğunluk Tabanlı 
+
+        - 5.3.1 DBSCAN
+        - 5.3.2 OPTICS
+        - 5.3.3 DBCLASD
+        - 5.3.4 DENCLUE
+        
+5.4 Izgara Tabanlı
+
+        - 5.4.1  Wave Cluster
+        - 5.4.2 STING
+        - 5.4.3 CLIQUE
+        - 5.4.4 OptiGrid
+        
+5.5 Model Tabanlı
+
+        - 5.5.1 EM
+        - 5.5.2 COBWEB
+        - 5.5.3 CLASSIT
+        - 5.5.4 SOMs
+        
+
+### 6. Bölüm  : Boyut Azaltma
+
+6. Bölüm : Boyut Azaltma
+
+6.1 Temel Bileşen Analizi
+
+6.2 Lineer Ayırt Etme Analizi
+
+
+### 7. Bölüm  : Yapay Sinir Ağları
 
 
 ## Yazar
