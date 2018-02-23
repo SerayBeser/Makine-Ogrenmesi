@@ -75,7 +75,7 @@ $ sudo pip install -r requirements.txt
 - 1.6.1	Doğruluk, Hassasiyet, Hata
 - 1.6.2	Çapraz Doğrulama
 - 1.6.3	Karışıklık Matrisi ve Performans Ölçütleri
-- 1.6.4	Metrikler
+- 1.6.4	Metrikler [düzenlenmeli]
 
 
 ###	2.	Bölüm   : Baştan Sona Makine Öğrenmesinin Temelleri
@@ -141,7 +141,7 @@ $ sudo pip install -r requirements.txt
         - 3.4.2.3   Stochastic Gradient
         - 3.4.2.4   Mini - Batch Gradient
         
-- 3.4.3   Dereceli Azalma Optimizasyon Algoritmaları  
+- 3.4.3   Dereceli Azalma Optimizasyon Algoritmaları  [düzenlenmeli]
 
         - 3.4.3.1   Momentum
         
