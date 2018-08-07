@@ -18,7 +18,7 @@ Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğu
 4. Bölüm:  [Sınıflandırma](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#4b%C3%B6l%C3%BCm---s%C4%B1n%C4%B1fland%C4%B1rma) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 5. Bölüm:  [Kümeleme](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#5-b%C3%B6l%C3%BCm---k%C3%BCmeleme-d%C3%BCzenlenmeli) [![Progress](https://img.shields.io/badge/Progress-%2525-yellow.svg)](https://img.shields.io/badge/Progress-%2525-yellow.svg)
 6. Bölüm:  Boyut Azaltma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
-7. Bölüm:  Yapay Sinir Ağları [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
+7. Bölüm:  [Yapay Sinir Ağları](https://github.com/SerayBeser/Makine-Ogrenmesi#7-b%C3%B6l%C3%BCm---yapay-sinir-a%C4%9Flar%C4%B1) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 
 [![Next](https://img.shields.io/badge/next-derin%20%C3%B6%C4%9Frenme-ff69b4.svg)](derinogrenme)
 [![Next](https://img.shields.io/badge/next-tensorflow-ff69b4.svg)](tensorflow)
@@ -246,13 +246,13 @@ $ sudo pip install -r requirements.txt
 
 ### 7. Bölüm  : Yapay Sinir Ağları
 
-7. Bölüm :   Yapay Sinir Ağları
+[7. Bölüm :   Yapay Sinir Ağları](https://github.com/SerayBeser/Makine-Ogrenmesi/tree/master/B%C3%B6l%C3%BCm%207%20:%20Yapay%20Sinir%20A%C4%9Flar%C4%B1)
 
-7.1 Sinir Ağları
+[7.1 Sinir Ağları](https://github.com/SerayBeser/Makine-Ogrenmesi/blob/master/B%C3%B6l%C3%BCm%207%20:%20Yapay%20Sinir%20A%C4%9Flar%C4%B1/Bolum%207%20%20Yapay%20Sinir%20Aglar%C4%B1.pdf)
 
-7.2 Algılayıcı (Perceptron)
+[7.2 Algılayıcı (Perceptron)](https://github.com/SerayBeser/Makine-Ogrenmesi/blob/master/B%C3%B6l%C3%BCm%207%20:%20Yapay%20Sinir%20A%C4%9Flar%C4%B1/Bolum%207%20%20Yapay%20Sinir%20Aglar%C4%B1.pdf)
 
-7.3 Sinir Ağ Çeşitleri
+[7.3 Sinir Ağ Çeşitleri](https://github.com/SerayBeser/Makine-Ogrenmesi/blob/master/B%C3%B6l%C3%BCm%207%20:%20Yapay%20Sinir%20A%C4%9Flar%C4%B1/Bolum%207%20%20Yapay%20Sinir%20Aglar%C4%B1.pdf)
 
 
 ## Yazar
