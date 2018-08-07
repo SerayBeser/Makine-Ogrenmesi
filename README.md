@@ -16,7 +16,7 @@ Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğu
 2. Bölüm:  [Baştan Sona Makine Öğrenmesinin Temelleri](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#2b%C3%B6l%C3%BCm----ba%C5%9Ftan-sona-makine-%C3%96%C4%9Frenmesinin-temelleri) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 3. Bölüm:  [Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#3-b%C3%B6l%C3%BCm---regresyon) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 4. Bölüm:  [Sınıflandırma](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#4b%C3%B6l%C3%BCm---s%C4%B1n%C4%B1fland%C4%B1rma) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
-5. Bölüm:  Kümeleme [![Progress](https://img.shields.io/badge/Progress-%2525-yellow.svg)](https://img.shields.io/badge/Progress-%2525-yellow.svg)
+5. Bölüm:  [Kümeleme](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#5-b%C3%B6l%C3%BCm---k%C3%BCmeleme-d%C3%BCzenlenmeli) [![Progress](https://img.shields.io/badge/Progress-%2525-yellow.svg)](https://img.shields.io/badge/Progress-%2525-yellow.svg)
 6. Bölüm:  Boyut Azaltma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 7. Bölüm:  Yapay Sinir Ağları [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 
