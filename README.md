@@ -185,7 +185,7 @@ $ sudo pip install -r requirements.txt
         - 4.3.5.1 Bagging
         - 4.3.5.2 Boosting
 
-4.4 Destek Vektör Makineleri
+4.4 [Destek Vektör Makineleri](https://github.com/SerayBeser/Makine-Ogrenmesi/blob/master/B%C3%B6l%C3%BCm%204%20:%20S%C4%B1n%C4%B1fland%C4%B1rma/4.4%20Destek%20Vektor%20Makineleri.pdf) [destek vektör makinesi örnekleri implementation'ları eksik]
 
 4.5 Naive Bayes
 
