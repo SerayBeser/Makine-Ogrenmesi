@@ -16,7 +16,7 @@ Makine Öğrenmesi alanında Türkçe kaynak oluşturmak amacıyla oluşturduğu
 2. Bölüm:  [Baştan Sona Makine Öğrenmesinin Temelleri](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#2b%C3%B6l%C3%BCm----ba%C5%9Ftan-sona-makine-%C3%96%C4%9Frenmesinin-temelleri) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 3. Bölüm:  [Regresyon](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#3-b%C3%B6l%C3%BCm---regresyon) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
 4. Bölüm:  [Sınıflandırma](https://github.com/SerayBeser/makine-ogrenmesi/blob/master/README.md#4b%C3%B6l%C3%BCm---s%C4%B1n%C4%B1fland%C4%B1rma) [![Progress](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)](https://img.shields.io/badge/Progress-%25100-brightgreen.svg)
-5. Bölüm:  Kümeleme [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
+5. Bölüm:  Kümeleme [![Progress](https://img.shields.io/badge/Progress-%2525-yellow.svg)](https://img.shields.io/badge/Progress-%2525-yellow.svg)
 6. Bölüm:  Boyut Azaltma [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 7. Bölüm:  Yapay Sinir Ağları [![Progress](https://img.shields.io/badge/Progress-%250-red.svg)](https://img.shields.io/badge/Progress-%250-red.svg)
 
@@ -190,11 +190,11 @@ $ sudo pip install -r requirements.txt
 4.5 [Naive Bayes](https://github.com/SerayBeser/Makine-Ogrenmesi/blob/master/B%C3%B6l%C3%BCm%204%20:%20S%C4%B1n%C4%B1fland%C4%B1rma/4.5%20Naive%20Bayes.pdf) [naive bayes örneği implementation'ı eksik]
 
 
-### 5. Bölüm  : Kümeleme
+### 5. Bölüm  : Kümeleme [düzenlenmeli]
 
-5. Bölüm : Kümeleme
+[5. Bölüm : Kümeleme](https://github.com/SerayBeser/Makine-Ogrenmesi/tree/master/B%C3%B6l%C3%BCm%205%20:%20K%C3%BCmeleme)
 
-5.1 Parçalama Tabanlı
+[5.1 Parçalama Tabanlı](https://github.com/SerayBeser/Makine-Ogrenmesi/blob/master/B%C3%B6l%C3%BCm%205%20:%20K%C3%BCmeleme/Bolum%205%20%20Kumeleme.pdf)
 
         - 5.1.1 K-Means
         - 5.1.2 K-Medoids
@@ -204,7 +204,7 @@ $ sudo pip install -r requirements.txt
         - 5.1.6 CLARA
         - 5.1.7 FCM
         
-5.2 Hiyerarşik Tabanlı
+[5.2 Hiyerarşik Tabanlı](https://github.com/SerayBeser/Makine-Ogrenmesi/blob/master/B%C3%B6l%C3%BCm%205%20:%20K%C3%BCmeleme/Bolum%205%20%20Kumeleme.pdf)
 
         - 5.2.1 BIRCH
         - 5.2.2 CURE
@@ -213,21 +213,21 @@ $ sudo pip install -r requirements.txt
         - 5.2.5 Echidna
        
        
-5.3 Yoğunluk Tabanlı 
+[5.3 Yoğunluk Tabanlı](https://github.com/SerayBeser/Makine-Ogrenmesi/blob/master/B%C3%B6l%C3%BCm%205%20:%20K%C3%BCmeleme/Bolum%205%20%20Kumeleme.pdf)
 
         - 5.3.1 DBSCAN
         - 5.3.2 OPTICS
         - 5.3.3 DBCLASD
         - 5.3.4 DENCLUE
         
-5.4 Izgara Tabanlı
+[5.4 Izgara Tabanlı](https://github.com/SerayBeser/Makine-Ogrenmesi/blob/master/B%C3%B6l%C3%BCm%205%20:%20K%C3%BCmeleme/Bolum%205%20%20Kumeleme.pdf)
 
         - 5.4.1  Wave Cluster
         - 5.4.2 STING
         - 5.4.3 CLIQUE
         - 5.4.4 OptiGrid
         
-5.5 Model Tabanlı
+[5.5 Model Tabanlı](https://github.com/SerayBeser/Makine-Ogrenmesi/blob/master/B%C3%B6l%C3%BCm%205%20:%20K%C3%BCmeleme/Bolum%205%20%20Kumeleme.pdf)
 
         - 5.5.1 EM
         - 5.5.2 COBWEB
