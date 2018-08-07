@@ -246,6 +246,14 @@ $ sudo pip install -r requirements.txt
 
 ### 7. Bölüm  : Yapay Sinir Ağları
 
+7. Bölüm :   Yapay Sinir Ağları
+
+7.1 Sinir Ağları
+
+7.2 Algılayıcı (Perceptron)
+
+7.3 Sinir Ağ Çeşitleri
+
 
 ## Yazar
 
